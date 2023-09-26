@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.funny {
+  background-image: url(https://www.caringbridge.org/assets/ugc/3n/71/5/577810d1ac7ee98b5434eead.jpg);
+  background-attachment: fixed;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
